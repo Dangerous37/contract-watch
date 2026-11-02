@@ -1,0 +1,1 @@
+{"openapi":"3.0.3","info":{"title":"Bookings","version":"2"},"paths":{"/bookings":{"get":{"responses":{"200":{"description":"Found","content":{"text/plain":{"schema":{"type":"string"}}}}}}}}}
